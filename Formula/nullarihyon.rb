@@ -1,8 +1,8 @@
 class Nullarihyon < Formula
   desc "Nullability check for Objective-C implementation"
   homepage "https://github.com/soutaro/nullarihyon"
-  url "https://github.com/soutaro/nullarihyon/archive/1.5.0.zip"
-  sha256 "71287b63c4e8519564bfa438a0ffcbe41ace7836c508b4b427831b2d4e089203"
+  url "https://github.com/soutaro/nullarihyon/archive/1.6.0.zip"
+  sha256 "2f0fd77e0702718c6e586311742564c490db1d81a647f32705672a10bb154df3"
 
   depends_on "cmake" => :build
 
